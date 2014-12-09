@@ -1,0 +1,118 @@
+﻿CACHE MANIFEST
+# version 0.1
+CACHE:
+index.php
+services.php
+about.php
+gallery.php
+
+# images
+img/289.png
+img/Ailedesign.jpg
+img/about.png
+img/arrow.gif
+img/bg1.jpg
+img/bg2.png
+img/email.png
+img/expand.png
+img/facebook.png
+img/gallery.png
+img/guide.jpg
+img/guide.png
+img/hampers.jpg
+img/home.png
+img/keys.png
+img/lightbox-ico-loading.gif
+img/list1.png
+img/list2.png
+img/logo.png
+img/mail.png
+img/manual.jpg
+img/phone.png
+img/products.png
+img/school.png
+img/services.png
+img/software.png
+img/star.png
+img/twitter.png
+
+# gallery
+img/gallery/(00)IMG-20130514-WA0000.jpg
+img/gallery/(00)IMG-20130514-WA0002.jpg
+img/gallery/(00)IMG-20130514-WA0003.jpg
+img/gallery/(00)IMG-20130514-WA0004.jpg
+img/gallery/(00)IMG-20130514-WA0005.jpg
+img/gallery/(00)IMG-20130514-WA0006.jpg
+img/gallery/(00)IMG-20130514-WA0007.jpg
+img/gallery/(00)IMG-20130514-WA0011.jpg
+img/gallery/(00)IMG-20130514-WA0014.jpg
+img/gallery/(00)IMG-20130515-WA0000.jpg
+img/gallery/Hairfascinator2.jpg
+img/gallery/Hairfascinator3.jpg
+img/gallery/HiarFascinator.jpg
+img/gallery/IMG-20130515-WA0026.jpg
+img/gallery/IMG-20130515-WA0027.jpg
+img/gallery/IMG-20130515-WA0028.jpg
+img/gallery/IMG-20130515-WA0029.jpg
+img/gallery/IMG-20130520-WA0000.jpg
+img/gallery/IMG-20130520-WA0010.jpg
+img/gallery/IMG-20130520-WA0011.jpg
+
+# slides
+img/slides/IMAG0253.jpg
+img/slides/IMAG0258.jpg
+img/slides/IMAG0260.jpg
+img/slides/IMAG0261.jpg
+img/slides/IMAG0287.jpg
+img/slides/IMAG0290.jpg
+img/slides/IMAG0309.jpg
+img/slides/IMAGE_070.jpg
+img/slides/IMAGE_071.jpg
+img/slides/Picture_365.jpg
+img/slides/Picture_366.jpg
+img/slides/Picture_370.jpg
+img/slides/kormmandos.jpg
+
+# sounds
+snd/November_Sky.mp3
+snd/November_Sky.ogg
+
+# plugins
+plugins/nicescroll/nicescroll.min.js
+plugins/nicescroll/nicescroll.plus.js
+
+plugins/lightbox/jquery.lightbox-0.5.css
+plugins/lightbox/jquery.lightbox-0.5.min.js
+plugins/lightbox/images/lightbox-blank.gif
+plugins/lightbox/images/lightbox-btn-close.gif
+plugins/lightbox/images/lightbox-btn-next.gif
+plugins/lightbox/images/lightbox-btn-prev.gif
+plugins/lightbox/images/lightbox-ico-loading.gif
+
+# JavaScript
+js/jquery-1.9.1.min.js
+js/jquery-ui-1.9.2.custom.min.js
+js/script.js
+
+# includes
+inc/fn.php
+inc/footer.php
+inc/header.php
+inc/social.php
+
+# css
+css/AMAZB.TTF
+css/ARDELANEY.ttf
+css/FACEBOLF.OTF
+css/albr55w.ttf
+css/and142.ttf
+css/jquery-ui-1.10.3.custom.min.css
+css/reset.css
+css/style.css
+
+# Ajax
+ajax/loadimage.php
+
+
+NETWORK:
+*
